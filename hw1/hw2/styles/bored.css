@@ -1,0 +1,12 @@
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "arial", sans-serif;
+}
+
+#bored-button {
+  cursor: move;
+}
